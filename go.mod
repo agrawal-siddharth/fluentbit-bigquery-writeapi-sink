@@ -9,15 +9,15 @@ require (
 	github.com/fluent/fluent-bit-go v0.0.0-20230731091245-a7a013e2473c
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/stretchr/testify v1.10.0
-	google.golang.org/api v0.211.0
+	google.golang.org/api v0.214.0
 	google.golang.org/grpc v1.67.1
 	google.golang.org/protobuf v1.35.2
 )
 
 require (
-	cloud.google.com/go/auth v0.12.1 // indirect
+	cloud.google.com/go/auth v0.13.0 // indirect
 	cloud.google.com/go/auth/oauth2adapt v0.2.6 // indirect
-	cloud.google.com/go/compute/metadata v0.5.2 // indirect
+	cloud.google.com/go/compute/metadata v0.6.0 // indirect
 	cloud.google.com/go/iam v1.1.7 // indirect
 	github.com/apache/arrow/go/v15 v15.0.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
