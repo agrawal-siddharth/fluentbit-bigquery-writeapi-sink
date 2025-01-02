@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go/bigquery v1.61.0
 	github.com/fluent/fluent-bit-go v0.0.0-20230731091245-a7a013e2473c
 	github.com/googleapis/gax-go/v2 v2.14.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	google.golang.org/api v0.211.0
 	google.golang.org/grpc v1.67.1
 	google.golang.org/protobuf v1.35.2
