@@ -5,7 +5,7 @@ go 1.23
 require (
 	bou.ke/monkey v1.0.2
 	cloud.google.com/go v0.118.0
-	cloud.google.com/go/bigquery v1.64.0
+	cloud.google.com/go/bigquery v1.65.0
 	github.com/fluent/fluent-bit-go v0.0.0-20230731091245-a7a013e2473c
 	github.com/googleapis/gax-go/v2 v2.14.1
 	github.com/stretchr/testify v1.10.0
